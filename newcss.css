@@ -8,6 +8,10 @@
     width: 200px;
     height: 400px;
 }
+h3{
+    border: 2px solid green;
+    text:white;
+}
 footer{ /*This is my Css Brent*/
     border: dotted 5px forestgreen;
     background-color: burlywood;
