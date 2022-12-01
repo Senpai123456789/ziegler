@@ -8,3 +8,12 @@
     width: 200px;
     height: 400px;
 }
+footer{ /*This is my Css Brent*/
+    border: dotted 5px forestgreen;
+    background-color: burlywood;
+}
+footer p{
+    color: royalblue;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+}
