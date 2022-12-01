@@ -1,0 +1,10 @@
+* {
+    text-align: center;
+    margin: auto;
+    padding: 0;
+}
+#photo img {
+    background-color: aqua;
+    width: 200px;
+    height: 400px;
+}
